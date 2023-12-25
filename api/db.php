@@ -2,9 +2,9 @@
     date_default_timezone_set("Asia/Bangkok");
     date_default_timezone_get();
     class DBConnection{
-        private $db="mysql:host=localhost;dbname=khua_resturant;charset=utf8";
-        private $user="root";
-        private $pass="";
+        private $db="mysql:host=db-mysql-sgp1-41919-do-user-9107590-0.c.db.ondigitalocean.com;port=25060;dbname=resturant;charset=utf8";
+        private $user="lpy";
+        private $pass="AVNS_jcb5PqW7xKw29mtrCTv";
         public $conn;
         public function __construct(){
             try{
