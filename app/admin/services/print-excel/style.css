@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Noto Sans Lao';
+    src: url('../../assets/css/fonts/NotoSansLao-Regular.ttf');
+}
+
+table,tr,td,th{
+  font-family: "Noto Sans Lao" !important;
+  font-size: 11px;
+}
+h3,h2,h1,h4,h5{
+  font-family: "Noto Sans Lao" !important;
+}
+.theader{
+  font-size: 12px !important;
+  vertical-align: middle !important;
+}
