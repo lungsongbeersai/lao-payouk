@@ -1,3 +1,3 @@
 <?php
-    echo "pos.restaurant.laopayook.com/app/";
+    echo "https://pos.restaurant.laopayook.com/app/";
 ?>

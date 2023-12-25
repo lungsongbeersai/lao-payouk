@@ -1,3 +1,3 @@
-urlApi='pos.restaurant.laopayook.com/api/';
-urlImage='pos.restaurant.laopayook.com/api/images/';
-const socket = io.connect('pos.restaurant.laopayook.com:5000');
+urlApi='https://pos.restaurant.laopayook.comapi/';
+urlImage='https://pos.restaurant.laopayook.comapi/images/';
+const socket = io.connect('https://pos.restaurant.laopayook.com:5000');
