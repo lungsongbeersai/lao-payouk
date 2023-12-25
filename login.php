@@ -7,8 +7,7 @@ $packget = new packget();
 <html lang="en">
 
 <head>
-    <!-- <title>frm_login</title> -->
-    <title>login > welcome</title>
+    <title>frm_login</title>
     <?php $packget->app_css(); ?>
 </head>
 
